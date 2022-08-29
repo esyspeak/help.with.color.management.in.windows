@@ -1,7 +1,7 @@
 # Help.with.color.management.in.windows
 
 
-[![Help with color management in windows](red2.png)](https://github.com/esyspeak/help.with.color.management.in.windows)
+[![Help with color management in windows](red2.png)](https://computersolve.com/help-with-color-management-in-windows/)
 
 **Help With Color Management In Windows –** The technology is growing at a rapid speed. Nowadays, you can get cameras and displays which are better than your eyes, and they can show you the colors with more accuracy and precision.
 
